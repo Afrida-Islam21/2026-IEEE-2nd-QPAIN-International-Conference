@@ -62,15 +62,7 @@ Published in the **IEEE 2nd QPAIN International Conference 2026**
 
 ## 📖 Abstract
 
-Waste management is one of the most serious issues of contemporary campuses and urban areas that may lead to an unsanitary environment, resource wastage, and environmental damage.
-
-This project introduces the design and implementation of an intelligent waste management system that combines IoT sensors, machine learning, and cloud-based monitoring.
-
-The system includes a low-cost sensor-based design and a machine learning architecture utilizing Raspberry Pi and YOLOv8n for real-time waste classification.
-
-With 92% classification accuracy, reliable hazard detection, and continuous monitoring, the system minimizes collection trips, promotes recycling, and encourages responsible waste disposal behavior through a reward mechanism.
-
-Aligned with global sustainability goals, the proposed framework provides a scalable and replicable solution for cleaner, smarter, and more sustainable communities.
+Waste management is one of the most serious issues of contemporary campuses and urban areas that may lead to an unsanitary environment, resource wastage, and environmental damage. This project introduces the design and implementation of an intelligent waste management system that combines IoT sensors, machine learning, and cloud-based monitoring. The system includes a low-cost sensor-based design and a machine learning architecture utilizing Raspberry Pi and YOLOv8n for real-time waste classification. With 92% classification accuracy, reliable hazard detection, and continuous monitoring, the system minimizes collection trips, promotes recycling, and encourages responsible waste disposal behavior through a reward mechanism. Aligned with global sustainability goals, the proposed framework provides a scalable and replicable solution for cleaner, smarter, and more sustainable communities.
 
 ---
 
